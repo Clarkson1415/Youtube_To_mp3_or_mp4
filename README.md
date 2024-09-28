@@ -2,7 +2,7 @@
 
 because I am sick of downloading mp3 and mp4 files from annoying websites with ads
 
-you can either download the standalone executable: [Here](\PythonMP3orMP4_YoutubeConverter\dist\main.exe)
+you can either download the standalone executable: [Download main.exe](https://github.com/Clarkson1729/PythonMP3orMP4_YoutubeConverter/raw/main/PythonMP3orMP4_YoutubeConverter/dist/main.exe)
 
 or download the python script: [The script](main.py) and tinker with it yourself
 
