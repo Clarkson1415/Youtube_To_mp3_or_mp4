@@ -2,9 +2,9 @@
 
 because I am sick of downloading mp3 and mp4 files from annoying websites with ads. I made a program for personal use. 
 
-you can either download the standalone executable: [View main.exe](https://github.com/Clarkson1415/Youtube_To_mp3_or_mp4/blob/main/dist/Youtube_To_mp3_or_mp4.exe)
+you can either download the standalone executable: [View Gracesmp3ormp4.exe](https://github.com/Clarkson1415/Youtube_To_mp3_or_mp4/blob/main/dist/.exe)
 
-[Download main.exe](https://github.com/Clarkson1415/Youtube_To_mp3_or_mp4/raw/main/dist/Youtube_To_mp3_or_mp4.exe)
+[Download main.exe](https://github.com/Clarkson1415/Youtube_To_mp3_or_mp4/raw/main/dist/GracesYoutubeToMp3Or4.exe)
 
 
 or download the python script: [The script](main.py) and tinker with it yourself
