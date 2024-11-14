@@ -2,7 +2,7 @@
 
 because I am sick of downloading mp3 and mp4 files from annoying websites with ads. I made a program for personal use. 
 
-you can either download the standalone executable: [View Gracesmp3ormp4.exe](https://github.com/Clarkson1415/GracesYoutubeToMp3Or4/blob/main/dist/.exe)
+you can either download the standalone executable:
 
 [Download Gracesmp3ormp4.exe](https://github.com/Clarkson1415/Youtube_To_mp3_or_mp4/raw/main/dist/GracesYoutubeToMp3Or4.exe)
 
