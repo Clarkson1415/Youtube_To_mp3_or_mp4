@@ -12,6 +12,9 @@ def download_youtube(url, output_path, output_format):
     try:
         os.makedirs(output_path, exist_ok=True)
 
+        # Path to bundled FFmpeg executable
+        ffmpeg_path = os.path.join(os.path.dirname(__file__), 'ffmpeg', 'ffmpeg.exe')
+
         # ydl_opts with format option included
         if output_format == 'mp3':
             ydl_opts = {
@@ -22,7 +25,7 @@ def download_youtube(url, output_path, output_format):
                     'preferredquality': '192',
                 }],
                 'outtmpl': os.path.join(output_path, f"{sanitize_filename('%(title)s.%(ext)s')}"),
-                'ffmpeg_location': r'C:\ffmpeg\bin',
+                'ffmpeg_location': ffmpeg_path,
                 'verbose': True,
             }
         elif output_format == 'mp4':
@@ -33,7 +36,7 @@ def download_youtube(url, output_path, output_format):
                     'preferedformat': 'mp4',
                 }],
                 'outtmpl': os.path.join(output_path, f"{sanitize_filename('%(title)s.%(ext)s')}"),
-                'ffmpeg_location': r'C:\ffmpeg\bin',
+                'ffmpeg_location': ffmpeg_path,
                 'verbose': True,
             }
         else:
