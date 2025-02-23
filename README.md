@@ -12,7 +12,7 @@ or download the python script: [The script](main.py) and tinker with it yourself
 ## Running the Program
 It will ask you to input:
 1. URL
-2. File Path then
+2. File Path to output to
 3. mp3 or mp4 format
 
 
