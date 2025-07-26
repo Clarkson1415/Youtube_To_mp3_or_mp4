@@ -8,7 +8,7 @@ you can either download the standalone executable:
 
 will be up as a website here: (https://clarkson1415.github.io/Youtube_to_MP3_or_MP4_Website/)
 
-or download the python script: [The script](main.py) and tinker with it yourself
+or download the python script: [The script](main.py)
 
 ## Running the Program
 It will ask you to input:
