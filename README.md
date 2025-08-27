@@ -1,6 +1,6 @@
 # Youtube to MP3/MP4 Converter
 
-because I am sick of downloading mp3 and mp4 files from annoying websites with ads. I made a program for personal use. 
+because I am sick of downloading mp3 and mp4 files from websites with ads. I made a program for personal use. 
 
 you can either download the standalone executable:
 
